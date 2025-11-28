@@ -1,0 +1,5 @@
+{
+  "name": "PlantUML AI Architect",
+  "description": "A real-time PlantUML editor and visualizer powered by Gemini AI. Edit code manually or use natural language commands to generate diagrams.",
+  "requestFramePermissions": []
+}
